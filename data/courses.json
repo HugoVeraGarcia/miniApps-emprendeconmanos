@@ -1,0 +1,537 @@
+{
+ "_note": "Datos del Mercado de Afiliación de Hotmart revisados el 2026-10-03. rating/reviews = evaluaciones de compradores en Hotmart. img = ruta en hotmart.s3.amazonaws.com/product_pictures/. Los hotlinks van en data/links.json.",
+ "courses": [
+  {
+   "id": 3600856,
+   "slug": "disena-y-crea-con-resina",
+   "name": "Diseña y Crea con Resina",
+   "producer": "Diseña y Crea (instructora Yuli)",
+   "since": 2023,
+   "cats": [
+    "resina"
+   ],
+   "star": true,
+   "price": 74,
+   "rating": 5.0,
+   "reviews": 269,
+   "img": "753d70da-ad49-4a5a-8bcb-c28508249ed1/PORTADACURSO.png",
+   "summary": "El curso de resina mejor calificado de Hotmart: más de 20 proyectos de accesorios, desde llaveros hasta lámparas y recuerdos de recién nacido.",
+   "learn": [
+    "Llaveros, lapiceros, agendas y separadores",
+    "Aretes, collares, pulseras y anillos",
+    "Peines, ganchos para cabello y placas para mascotas",
+    "Posavasos, cuadros, relojes, tazas y lámparas",
+    "Fundas para celular y pop sockets",
+    "Recuerdos de recién nacido",
+    "Cómo evitar los errores más comunes al trabajar con resina",
+    "Lista de proveedores para comprar materiales en tu país"
+   ],
+   "for": "Personas que empiezan desde cero y quieren un catálogo amplio de accesorios para vender por redes sociales.",
+   "pros": [
+    "5.0 de calificación con 269 evaluaciones, la mejor del nicho",
+    "Catálogo de proyectos muy amplio y vendible",
+    "Incluye lista de proveedores por país",
+    "Comunidad de alumnos, soporte y acceso de por vida"
+   ],
+   "cons": [
+    "Necesitas invertir en resina, moldes y equipo de protección",
+    "Se enfoca en accesorios y piezas pequeñas, no en muebles ni pisos"
+   ],
+   "verdict": "Si quieres aprender resina para vender accesorios, es la opción más segura: es la mejor valorada del nicho y cubre la mayor variedad de productos."
+  },
+  {
+   "id": 4677308,
+   "slug": "velas-y-jabones-artesanales-3x1",
+   "name": "Velas y Jabones Artesanales (3 en 1)",
+   "producer": "MAPO Agency",
+   "since": 2024,
+   "cats": [
+    "velas",
+    "jabones"
+   ],
+   "star": true,
+   "price": 70,
+   "rating": 4.9,
+   "reviews": 272,
+   "img": "8c117ce5-bf0a-436f-95c3-5d6fc3633b01/velas.png",
+   "summary": "Tres cursos en uno: velas artesanales, velas navideñas y jabones artesanales, con 16 bonos en video y seis meses de acompañamiento.",
+   "learn": [
+    "Materiales y herramientas para velas y jabones",
+    "Uso de esencias, aceites esenciales, pigmentos y moldes",
+    "Diseños decorativos y velas navideñas",
+    "Jabones con ingredientes naturales",
+    "Presentación y empaque profesional",
+    "Estrategias de marketing digital para vender tu producción"
+   ],
+   "for": "Quien quiere empezar con dos productos complementarios (velas y jabones) y aprovechar la temporada navideña.",
+   "pros": [
+    "Tres cursos y 16 bonos por el precio de uno",
+    "Incluye velas navideñas, ideales para el último trimestre",
+    "Cubre empaque y marketing, no solo la técnica",
+    "4.9 con 272 evaluaciones"
+   ],
+   "cons": [
+    "Al abarcar tres temas, un curso especializado puede profundizar más en cada uno",
+    "Productor con menos años en Hotmart que otros del nicho"
+   ],
+   "verdict": "La mejor relación precio/contenido para empezar: velas y jabones juntos, con la temporada navideña incluida."
+  },
+  {
+   "id": 3589878,
+   "slug": "jabones-de-glicerina-para-emprender",
+   "name": "Jabones de Glicerina para Emprender desde Casa",
+   "producer": "Marbelys Quiñonez",
+   "since": 2022,
+   "cats": [
+    "jabones"
+   ],
+   "star": true,
+   "price": 137,
+   "rating": 4.9,
+   "reviews": 157,
+   "img": "dfcca887-3b5e-4ee8-b4ec-11bf15fb0afa/photo_20260811_120547.jpg",
+   "summary": "Programa especializado en jabones de glicerina: técnica paso a paso para crear diseños originales, más la estrategia de venta de la instructora.",
+   "learn": [
+    "Técnicas de jabones de glicerina desde cero",
+    "Diseños originales y creativos paso a paso",
+    "La estrategia de venta que usa la instructora",
+    "Cómo empezar a generar ingresos con tu producción"
+   ],
+   "for": "Quien quiere especializarse en jabones de glicerina decorativos y tener acompañamiento mientras aprende.",
+   "pros": [
+    "Especializado en un solo producto, con más profundidad",
+    "Incluye la estrategia de venta de la instructora",
+    "Acompañamiento a las alumnas",
+    "4.9 con 157 evaluaciones y un aviso honesto: no promete resultados garantizados"
+   ],
+   "cons": [
+    "Es el curso de jabones más caro de esta comparativa",
+    "Se centra en glicerina; si buscas jabones saponificados en frío, revisa el temario"
+   ],
+   "verdict": "La opción para especializarte en jabones de glicerina con acompañamiento. Si solo quieres probar el oficio, el 3 en 1 es más barato."
+  },
+  {
+   "id": 4832176,
+   "slug": "el-rentable-negocio-de-la-sublimacion",
+   "name": "El Rentable Negocio de la Sublimación",
+   "producer": "Johan Torres",
+   "since": 2024,
+   "cats": [
+    "sublimacion"
+   ],
+   "star": true,
+   "price": 227,
+   "rating": 4.8,
+   "reviews": 67,
+   "img": "c0b0263f-4cb2-4ff5-8d07-6e69e3a8429b/portadacover.jpg",
+   "summary": "Curso completo para personalizar camisetas, tazas, accesorios y artículos promocionales con sublimación y convertirlo en negocio.",
+   "learn": [
+    "Cómo funciona la sublimación y en qué materiales se aplica",
+    "Personalizar camisetas, tazas y accesorios",
+    "Artículos promocionales para empresas",
+    "Uso de la impresora de sublimación y la prensa de calor"
+   ],
+   "for": "Quien busca un negocio de personalización con pedidos de particulares y empresas, y puede invertir en equipo.",
+   "pros": [
+    "Oficio con demanda todo el año (regalos, eventos, empresas)",
+    "Enfoque de negocio desde el título",
+    "4.8 con 67 evaluaciones",
+    "El mismo instructor tiene un curso de DTF para crecer después"
+   ],
+   "cons": [
+    "Necesitas impresora de sublimación y prensa térmica: mayor inversión inicial",
+    "Es el curso más caro de esta lista"
+   ],
+   "verdict": "La mejor opción si quieres un negocio de personalización serio. Calcula primero el costo del equipo con nuestra calculadora."
+  },
+  {
+   "id": 1329726,
+   "slug": "globos-para-fiestas-y-eventos",
+   "name": "Globos para Fiestas y Eventos",
+   "producer": "MasterClasses.la / Seminarios Online",
+   "since": 2019,
+   "cats": [
+    "globos-eventos"
+   ],
+   "star": false,
+   "price": 99,
+   "rating": 4.8,
+   "reviews": 397,
+   "img": "a9bd9878-45ca-437d-a511-7071442de568/Mastersello20210308T145307492.jpg",
+   "summary": "El curso de decoración con globos con más evaluaciones en Hotmart: materiales, tipos de globos, combinaciones de color y montaje de decoraciones.",
+   "learn": [
+    "Materiales y tipos de globos",
+    "Combinaciones de colores",
+    "Decoraciones para fiestas y eventos",
+    "Cómo plantear tu proyecto de negocio"
+   ],
+   "for": "Quien quiere ofrecer decoración para cumpleaños, baby showers y eventos sin experiencia previa.",
+   "pros": [
+    "397 evaluaciones con 4.8: el más validado de esta comparativa",
+    "Productor con más de 6 años en Hotmart",
+    "Inversión inicial baja"
+   ],
+   "cons": [
+    "El trabajo se hace en el lugar del evento: necesitas movilidad",
+    "La demanda se concentra en fines de semana y temporadas"
+   ],
+   "verdict": "El punto de partida más seguro para aprender decoración con globos."
+  },
+  {
+   "id": 2804846,
+   "slug": "velas-artesanales-para-emprender",
+   "name": "Velas Artesanales para Emprender",
+   "producer": "Academia Digital DYE",
+   "since": 2022,
+   "cats": [
+    "velas"
+   ],
+   "star": false,
+   "price": 100,
+   "rating": 4.8,
+   "reviews": 270,
+   "img": "81407b7c-83e6-49d9-a072-99c3ea437c09/PORTADAorderbumpVELASARTESANALESPARAEMPRENDER.jpg",
+   "summary": "Curso con una base técnica sólida: tipos de cera, puntos de fusión y mezclas, más un módulo práctico y comunidad de apoyo.",
+   "learn": [
+    "Ceras vegetales, animales y minerales y sus propiedades",
+    "Puntos de fusión y cómo combinar ceras con parafina",
+    "Módulo práctico de elaboración de velas",
+    "Comunidad privada en Telegram y WhatsApp"
+   ],
+   "for": "Quien quiere entender bien la técnica (ceras, mezclas, quemado) antes de lanzarse a vender.",
+   "pros": [
+    "Base técnica sólida sobre ceras",
+    "4.8 con 270 evaluaciones",
+    "Comunidad de apoyo en Telegram y WhatsApp"
+   ],
+   "cons": [
+    "Más caro que el pack 3 en 1 de velas y jabones",
+    "Menos variedad de diseños decorativos que Diseña y Crea Velas"
+   ],
+   "verdict": "Ideal si te importa la calidad técnica de la vela (que queme bien y huela bien)."
+  },
+  {
+   "id": 5448982,
+   "slug": "disena-y-crea-velas-artesanales",
+   "name": "Diseña y Crea Velas Artesanales",
+   "producer": "Diseña y Crea (instructora Yuli)",
+   "since": 2023,
+   "cats": [
+    "velas"
+   ],
+   "star": false,
+   "price": 74,
+   "rating": 5.0,
+   "reviews": 145,
+   "img": "389c581b-43a4-4984-adff-6bd55a1b1729/DISENAYCREAVELASARTESANALES2.png",
+   "summary": "Más de 20 diseños de velas decorativas: tipo postre, efecto mármol, geoda, con flores, wax melts y más. De la misma instructora del curso de resina.",
+   "learn": [
+    "Velas en envase, en molde y en capas",
+    "Velas tipo postre: malteadas, café helado, helado con frutas",
+    "Efectos mármol, geoda, coral y galleta triturada",
+    "Velas con flores naturales y souvenirs",
+    "Velas para masajes y wax melts"
+   ],
+   "for": "Quien quiere vender velas decorativas llamativas, de las que se viralizan en Instagram y TikTok.",
+   "pros": [
+    "5.0 con 145 evaluaciones",
+    "La mayor variedad de diseños decorativos",
+    "Misma instructora que el curso de resina mejor calificado"
+   ],
+   "cons": [
+    "Enfoque en diseño; para la parte técnica de ceras compara con Velas Artesanales para Emprender"
+   ],
+   "verdict": "El mejor para velas decorativas y de regalo con diseños que llaman la atención."
+  },
+  {
+   "id": 4256088,
+   "slug": "accesorios-en-resina-para-emprender",
+   "name": "Accesorios en Resina para Emprender",
+   "producer": "Academia Digital DYE",
+   "since": 2022,
+   "cats": [
+    "resina"
+   ],
+   "star": false,
+   "price": 60,
+   "rating": 5.0,
+   "reviews": 46,
+   "img": "d36293ac-7980-4030-b4c5-3010b8dcc72a/PORTADAorderbumpAccesoriosdeRESINAparaemprender.jpg",
+   "summary": "Curso práctico de resina epóxica desde lo básico hasta técnicas avanzadas, con certificado al terminar.",
+   "learn": [
+    "Propiedades de la resina epóxica y manejo seguro",
+    "Mezclado y tintado para efectos especiales",
+    "Joyería, artículos para el hogar y recordatorios",
+    "Conservación y acabado de las piezas"
+   ],
+   "for": "Quien quiere empezar en resina con un presupuesto más ajustado.",
+   "pros": [
+    "Más barato que Diseña y Crea con Resina",
+    "Incluye lista de materiales y certificado",
+    "Grupo privado de soporte"
+   ],
+   "cons": [
+    "Menos evaluaciones (46) que la alternativa líder"
+   ],
+   "verdict": "Una alternativa más económica y bien calificada para empezar en resina."
+  },
+  {
+   "id": 4406049,
+   "slug": "el-arte-de-las-mantequillas-corporales",
+   "name": "El Arte de las Mantequillas Corporales",
+   "producer": "Academia Emprende Digital",
+   "since": 2023,
+   "cats": [
+    "jabones"
+   ],
+   "star": false,
+   "price": 23,
+   "rating": 4.9,
+   "reviews": 203,
+   "img": "4d3df127-e236-416a-b3e1-e388798464c6/ELARTEDELASMANTEQUILLASCORPORALES13.png",
+   "summary": "30 clases en video para elaborar mantequillas corporales y empezar a venderlas con muy poca inversión.",
+   "learn": [
+    "Teoría e ingredientes de las mantequillas corporales",
+    "Elaboración paso a paso",
+    "Cómo iniciar tu negocio desde casa"
+   ],
+   "for": "Quien quiere probar la cosmética natural gastando lo mínimo.",
+   "pros": [
+    "El curso más económico de esta comparativa",
+    "4.9 con 203 evaluaciones",
+    "Producto en tendencia y de inversión muy baja"
+   ],
+   "cons": [
+    "Tema más acotado que los cursos de jabones",
+    "Para vender cosméticos en tiendas, revisa los requisitos sanitarios de tu país"
+   ],
+   "verdict": "La forma más barata de empezar en cosmética natural."
+  },
+  {
+   "id": 1084169,
+   "slug": "el-negocio-de-la-decoracion-con-globos",
+   "name": "El Negocio de la Decoración con Globos",
+   "producer": "Antonio Barrios",
+   "since": 2020,
+   "cats": [
+    "globos-eventos"
+   ],
+   "star": false,
+   "price": 149.99,
+   "rating": 4.8,
+   "reviews": 113,
+   "img": "caacb484-97d0-4a9d-95c0-5301e3cd9eda/elnegocio1080x1080px1.png",
+   "summary": "Curso de decoración con globos de un decorador con más de 15 años de experiencia, enfocado en conseguir clientes particulares y empresas.",
+   "learn": [
+    "Técnicas de decoración con globos paso a paso",
+    "Montaje de decoraciones para eventos",
+    "Cómo ofrecer tus servicios a clientes particulares y empresas"
+   ],
+   "for": "Quien quiere profesionalizarse y vender decoraciones de mayor valor.",
+   "pros": [
+    "Instructor con más de 15 años en decoración de eventos",
+    "Enfoque de negocio y clientes corporativos",
+    "4.8 con 113 evaluaciones"
+   ],
+   "cons": [
+    "Más caro que Globos para Fiestas y Eventos"
+   ],
+   "verdict": "Para quien ya decidió dedicarse a los eventos y quiere el enfoque más profesional."
+  },
+  {
+   "id": 2302584,
+   "slug": "cajas-y-flores-eternas",
+   "name": "Cajas y Flores Eternas como Oportunidad de Negocio",
+   "producer": "MasterClasses.la / Seminarios Online",
+   "since": 2019,
+   "cats": [
+    "globos-eventos"
+   ],
+   "star": false,
+   "price": 49.99,
+   "rating": 4.8,
+   "reviews": 27,
+   "img": "8ebb3fed-ad04-41ba-805c-091e83a5b443/MasterSello20221021T142513243.jpg",
+   "summary": "Regalos con flores eternas y cajas decoradas, con mucho foco en la parte de negocio: marca, catálogo, costos, fotos y redes.",
+   "learn": [
+    "Elaborar regalos con flores eternas",
+    "Crear la marca, el logo y la identidad de tu negocio",
+    "Armar tu catálogo y calcular costos de venta",
+    "Fotos, videos y edición de tus productos",
+    "Uso de redes sociales para vender"
+   ],
+   "for": "Quien quiere un negocio de regalos para fechas especiales.",
+   "pros": [
+    "Cubre marca, costos, fotografía y redes",
+    "Precio accesible",
+    "4.8 de calificación"
+   ],
+   "cons": [
+    "Pocas evaluaciones (27)",
+    "El temario visible se centra más en el negocio que en la técnica floral"
+   ],
+   "verdict": "Buena opción para regalos de temporada, sobre todo si necesitas ayuda con la parte comercial."
+  },
+  {
+   "id": 767859,
+   "slug": "costura-premium",
+   "name": "Costura Premium",
+   "producer": "MasterClasses.la / Seminarios Online",
+   "since": 2019,
+   "cats": [
+    "costura-tejido"
+   ],
+   "star": false,
+   "price": 139.99,
+   "rating": 4.8,
+   "reviews": 168,
+   "img": "7d728b58-5a6c-4a5e-8037-147b5f79b030/MasterSello20210319T093913157.jpg",
+   "summary": "Curso completo de costura desde cero hasta patronaje: máquinas, telas, medidas, cortes y acabados.",
+   "learn": [
+    "Organizar tu espacio, máquinas e implementos",
+    "Tipos de telas, texturas y colores",
+    "Tomar medidas y elaborar patrones",
+    "Siluetas y cortes",
+    "Falsos, pinzas, cierres, dobladillos, pretinas y sesgos"
+   ],
+   "for": "Quien quiere aprender a coser en serio para hacer prendas o arreglos por encargo.",
+   "pros": [
+    "Temario completo que llega hasta patronaje",
+    "4.8 con 168 evaluaciones",
+    "Productor con más de 6 años en Hotmart"
+   ],
+   "cons": [
+    "Necesitas máquina de coser",
+    "La curva de aprendizaje es más larga que en otros oficios"
+   ],
+   "verdict": "El curso más completo de esta lista para aprender costura de verdad."
+  },
+  {
+   "id": 2288768,
+   "slug": "bolsos-premium-en-trapillo",
+   "name": "Bolsos Premium en Trapillo",
+   "producer": "Educación Digital",
+   "since": null,
+   "cats": [
+    "costura-tejido"
+   ],
+   "star": false,
+   "price": 59.99,
+   "rating": 4.4,
+   "reviews": 20,
+   "img": "acae42b5-43d2-42b4-9106-14179adb08a9/Bolsos.jpg",
+   "summary": "Aprende desde cero a tejer bolsos de trapillo con acabados profesionales, uno de los productos de crochet mejor pagados.",
+   "learn": [
+    "Técnica de tejido con trapillo desde cero",
+    "Bolsos exclusivos paso a paso",
+    "Acabados profesionales"
+   ],
+   "for": "Quien sabe o quiere aprender crochet y busca un producto de alto valor.",
+   "pros": [
+    "Inversión muy baja: trapillo y un ganchillo",
+    "Producto de alto valor percibido"
+   ],
+   "cons": [
+    "Calificación más baja de la lista (4.4) y pocas evaluaciones (20)"
+   ],
+   "verdict": "Opción interesante para tejedoras, aunque con menos validación que otros cursos."
+  },
+  {
+   "id": 3012922,
+   "slug": "postres-en-vaso",
+   "name": "Postres en Vaso: Emprende desde Casa",
+   "producer": "Luis",
+   "since": 2021,
+   "cats": [
+    "reposteria"
+   ],
+   "star": false,
+   "price": 49.99,
+   "rating": 4.9,
+   "reviews": 58,
+   "img": "1a6ba2e0-35e6-4926-9529-6f764c6920c1/BRIGADEIROS3.png",
+   "summary": "Más de 25 técnicas y diseños de postres en vaso, desde los rellenos hasta cómo hacer crecer tu emprendimiento.",
+   "learn": [
+    "Rellenos como chantilly y cremas",
+    "Más de 25 técnicas y diseños en vaso",
+    "Postres de galleta, choco-torta y rebanadas",
+    "Cómo crecer tu emprendimiento desde casa"
+   ],
+   "for": "Quien quiere vender postres por unidad sin montar una pastelería.",
+   "pros": [
+    "Inversión baja y venta rápida",
+    "4.9 con 58 evaluaciones",
+    "Más de 25 diseños"
+   ],
+   "cons": [
+    "Producto perecible: requiere refrigeración y venta rápida",
+    "Al vender alimentos debes cumplir las normas sanitarias locales"
+   ],
+   "verdict": "La forma más rápida de empezar a vender repostería desde casa."
+  },
+  {
+   "id": 5763761,
+   "slug": "piezas-decorativas-en-concreto",
+   "name": "Piezas Decorativas en Concreto",
+   "producer": "Bynzo Digital",
+   "since": 2021,
+   "cats": [
+    "decoracion-concreto"
+   ],
+   "star": false,
+   "price": 100,
+   "rating": 5.0,
+   "reviews": 64,
+   "img": "5c0d8b6d-e128-4d09-9163-40d2aaa21cb1/BabypinkandMinimalSocialMediaProfilePictures2.png",
+   "summary": "Curso paso a paso de concreto decorativo: piezas para el hogar y cómo emprender, vender y posicionar tu marca.",
+   "learn": [
+    "Técnicas profesionales de concreto decorativo",
+    "Diseño y elaboración de piezas decorativas",
+    "Cómo emprender y vender tus piezas",
+    "Cómo posicionar tu marca desde cero"
+   ],
+   "for": "Quien busca un nicho decorativo moderno con poca competencia.",
+   "pros": [
+    "5.0 con 64 evaluaciones",
+    "Nicho con menos competencia",
+    "Incluye la parte de marca y ventas"
+   ],
+   "cons": [
+    "Requiere espacio de trabajo y tiempos de fraguado",
+    "El concreto es pesado: el envío cuesta más"
+   ],
+   "verdict": "Muy bien calificado y diferente: buena opción si quieres destacar."
+  },
+  {
+   "id": 4946160,
+   "slug": "el-rentable-negocio-del-dtf",
+   "name": "El Rentable Negocio del DTF",
+   "producer": "Johan Torres",
+   "since": 2024,
+   "cats": [
+    "sublimacion"
+   ],
+   "star": false,
+   "price": 227,
+   "rating": 5.0,
+   "reviews": 12,
+   "img": "39869040-97c7-44b5-87a5-6b843bd12aab/portada.png",
+   "summary": "Curso de DTF (Direct to Film), la técnica de estampado que permite imprimir en algodón y otras telas con acabado profesional.",
+   "learn": [
+    "Qué es el DTF y cómo funciona",
+    "Impresiones vibrantes y duraderas",
+    "Estrategias para convertir el DTF en negocio"
+   ],
+   "for": "Quien ya sublima o quiere estampar algodón, algo que la sublimación no permite.",
+   "pros": [
+    "Tecnología en tendencia que funciona en algodón",
+    "Mismo instructor que El Rentable Negocio de la Sublimación"
+   ],
+   "cons": [
+    "Pocas evaluaciones (12)",
+    "El equipo DTF requiere una inversión alta"
+   ],
+   "verdict": "El siguiente paso natural para quien ya domina la sublimación."
+  }
+ ]
+}
