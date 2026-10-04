@@ -4,58 +4,199 @@
  "tagline": "Aprende un oficio artesanal y véndelo desde casa.",
  "description": "Comparamos los cursos online mejor valorados para emprender con velas, jabones, resina, sublimación, globos y más. Calificaciones reales, precios y qué necesitas para empezar.",
  "checked": "2026-10-03",
- "pinterest_verify": "",
+ "pinterest_verify": "83203e9240f7fdad35e535092457c575",
  "categories": [
-  {"slug": "velas", "name": "Velas artesanales", "emoji": "🕯️",
+  {
+   "slug": "velas",
+   "name": "Velas artesanales",
+   "emoji": "🕯️",
    "title": "Mejores cursos de velas artesanales para emprender",
    "intro": "Las velas son uno de los productos artesanales más fáciles de empezar a vender: la inversión inicial es baja, se venden todo el año y tienen picos fuertes en Navidad, Día de la Madre y San Valentín. Comparamos los cursos con más alumnas satisfechas en Hotmart.",
-   "invest": "Baja", "space": "Una mesa y una cocina", "learn": "1 a 3 semanas",
-   "start": ["Cera de soya o parafina (empieza con 1–2 kg)", "Mechas con base metálica", "Fragancias para velas y colorantes", "Envases de vidrio o moldes de silicona", "Termómetro de cocina y una olla para baño María", "Etiquetas y empaque"],
-   "sell": ["Velas aromáticas en envase para regalo", "Velas decorativas tipo postre o con flores", "Souvenirs para bodas, bautizos y baby showers", "Packs navideños y de Día de la Madre"]},
-  {"slug": "jabones", "name": "Jabones y cosmética natural", "emoji": "🧼",
+   "invest": "Baja",
+   "space": "Una mesa y una cocina",
+   "learn": "1 a 3 semanas",
+   "start": [
+    "Cera de soya o parafina (empieza con 1–2 kg)",
+    "Mechas con base metálica",
+    "Fragancias para velas y colorantes",
+    "Envases de vidrio o moldes de silicona",
+    "Termómetro de cocina y una olla para baño María",
+    "Etiquetas y empaque"
+   ],
+   "sell": [
+    "Velas aromáticas en envase para regalo",
+    "Velas decorativas tipo postre o con flores",
+    "Souvenirs para bodas, bautizos y baby showers",
+    "Packs navideños y de Día de la Madre"
+   ]
+  },
+  {
+   "slug": "jabones",
+   "name": "Jabones y cosmética natural",
+   "emoji": "🧼",
    "title": "Mejores cursos de jabones artesanales y cosmética natural",
    "intro": "Jabones de glicerina, jabones naturales y mantequillas corporales: productos de uso diario, baratos de producir y muy fáciles de regalar. Estos son los cursos mejor calificados para aprender y venderlos.",
-   "invest": "Baja", "space": "Una mesa y una cocina", "learn": "1 a 3 semanas",
-   "start": ["Base de glicerina (transparente o blanca) o aceites para jabón natural", "Moldes de silicona", "Fragancias o aceites esenciales aptos para piel", "Colorantes cosméticos y aditivos (avena, café, flores secas)", "Alcohol en spray para eliminar burbujas", "Empaque y etiquetas"],
-   "sell": ["Jabones decorativos para regalo", "Kits de spa y cajas de regalo", "Mantequillas y exfoliantes corporales", "Detalles para eventos y empresas"],
-   "note": "Los jabones y cosméticos son productos de cuidado personal: antes de vender en tiendas, revisa los requisitos sanitarios de tu país."},
-  {"slug": "resina", "name": "Resina epóxica", "emoji": "💎",
+   "invest": "Baja",
+   "space": "Una mesa y una cocina",
+   "learn": "1 a 3 semanas",
+   "start": [
+    "Base de glicerina (transparente o blanca) o aceites para jabón natural",
+    "Moldes de silicona",
+    "Fragancias o aceites esenciales aptos para piel",
+    "Colorantes cosméticos y aditivos (avena, café, flores secas)",
+    "Alcohol en spray para eliminar burbujas",
+    "Empaque y etiquetas"
+   ],
+   "sell": [
+    "Jabones decorativos para regalo",
+    "Kits de spa y cajas de regalo",
+    "Mantequillas y exfoliantes corporales",
+    "Detalles para eventos y empresas"
+   ],
+   "note": "Los jabones y cosméticos son productos de cuidado personal: antes de vender en tiendas, revisa los requisitos sanitarios de tu país."
+  },
+  {
+   "slug": "resina",
+   "name": "Resina epóxica",
+   "emoji": "💎",
    "title": "Mejores cursos de resina epóxica para emprender",
    "intro": "Con resina se hacen llaveros, aretes, separadores, posavasos, cuadros y recuerdos personalizados que se venden muy bien en redes. Estos son los cursos de resina con mejores calificaciones en Hotmart.",
-   "invest": "Media", "space": "Una mesa en un lugar ventilado", "learn": "2 a 4 semanas",
-   "start": ["Kit de resina epóxica cristal (parte A + parte B)", "Moldes de silicona", "Pigmentos, micas y glitter", "Vasos medidores y palitos para mezclar", "Guantes de nitrilo y mascarilla para vapores", "Herrajes: argollas, ganchos, cadenas", "Pistola de calor o mini soplete para burbujas"],
-   "sell": ["Llaveros y accesorios personalizados con nombre", "Aretes, collares y pulseras", "Posavasos, bandejas y cuadros", "Recuerdos con flores o mechones de recién nacido"],
-   "note": "La resina epóxica desprende vapores mientras cura: trabaja con ventilación, guantes y mascarilla."},
-  {"slug": "sublimacion", "name": "Sublimación y estampado", "emoji": "👕",
+   "invest": "Media",
+   "space": "Una mesa en un lugar ventilado",
+   "learn": "2 a 4 semanas",
+   "start": [
+    "Kit de resina epóxica cristal (parte A + parte B)",
+    "Moldes de silicona",
+    "Pigmentos, micas y glitter",
+    "Vasos medidores y palitos para mezclar",
+    "Guantes de nitrilo y mascarilla para vapores",
+    "Herrajes: argollas, ganchos, cadenas",
+    "Pistola de calor o mini soplete para burbujas"
+   ],
+   "sell": [
+    "Llaveros y accesorios personalizados con nombre",
+    "Aretes, collares y pulseras",
+    "Posavasos, bandejas y cuadros",
+    "Recuerdos con flores o mechones de recién nacido"
+   ],
+   "note": "La resina epóxica desprende vapores mientras cura: trabaja con ventilación, guantes y mascarilla."
+  },
+  {
+   "slug": "sublimacion",
+   "name": "Sublimación y estampado",
+   "emoji": "👕",
    "title": "Mejores cursos de sublimación y DTF para emprender",
    "intro": "Tazas, polos, gorras y artículos promocionales personalizados: la sublimación y el DTF tienen demanda constante de clientes particulares y empresas. Comparamos los cursos mejor valorados para montar este negocio.",
-   "invest": "Media a alta", "space": "Un escritorio con enchufe y ventilación", "learn": "2 a 4 semanas",
-   "start": ["Impresora de sublimación (o equipo DTF)", "Tintas y papel de sublimación", "Plancha o prensa térmica (de tazas, plana o 5 en 1)", "Productos en blanco: tazas, polos de poliéster, cojines", "Cinta térmica y guantes resistentes al calor", "Un programa de diseño (Canva sirve para empezar)"],
-   "sell": ["Tazas y polos personalizados para regalo", "Uniformes y merchandising para empresas", "Recuerdos para cumpleaños, graduaciones y eventos", "Pedidos al por mayor para emprendedores"]},
-  {"slug": "globos-eventos", "name": "Globos y decoración de eventos", "emoji": "🎈",
+   "invest": "Media a alta",
+   "space": "Un escritorio con enchufe y ventilación",
+   "learn": "2 a 4 semanas",
+   "start": [
+    "Impresora de sublimación (o equipo DTF)",
+    "Tintas y papel de sublimación",
+    "Plancha o prensa térmica (de tazas, plana o 5 en 1)",
+    "Productos en blanco: tazas, polos de poliéster, cojines",
+    "Cinta térmica y guantes resistentes al calor",
+    "Un programa de diseño (Canva sirve para empezar)"
+   ],
+   "sell": [
+    "Tazas y polos personalizados para regalo",
+    "Uniformes y merchandising para empresas",
+    "Recuerdos para cumpleaños, graduaciones y eventos",
+    "Pedidos al por mayor para emprendedores"
+   ]
+  },
+  {
+   "slug": "globos-eventos",
+   "name": "Globos y decoración de eventos",
+   "emoji": "🎈",
    "title": "Mejores cursos de decoración con globos y eventos",
    "intro": "La decoración con globos y los regalos con flores eternas son negocios de servicio: cobras por evento o por pedido y puedes empezar con poca inversión. Estos son los cursos más valorados para aprender el oficio y conseguir clientes.",
-   "invest": "Baja a media", "space": "Espacio para guardar material y movilidad para montar", "learn": "2 a 4 semanas",
-   "start": ["Globos de látex de buena calidad en varios tamaños", "Infladora eléctrica y bomba manual", "Cinta para arcos de globos, hilo de pescar y cinta doble faz", "Estructuras básicas (arcos, columnas, paneles)", "Para flores eternas: flores preservadas, cajas y papel de regalo"],
-   "sell": ["Arcos y columnas para cumpleaños y baby showers", "Decoración para empresas e inauguraciones", "Bouquets y cajas de regalo", "Paquetes de decoración por temporada"]},
-  {"slug": "costura-tejido", "name": "Costura y tejido", "emoji": "🧵",
+   "invest": "Baja a media",
+   "space": "Espacio para guardar material y movilidad para montar",
+   "learn": "2 a 4 semanas",
+   "start": [
+    "Globos de látex de buena calidad en varios tamaños",
+    "Infladora eléctrica y bomba manual",
+    "Cinta para arcos de globos, hilo de pescar y cinta doble faz",
+    "Estructuras básicas (arcos, columnas, paneles)",
+    "Para flores eternas: flores preservadas, cajas y papel de regalo"
+   ],
+   "sell": [
+    "Arcos y columnas para cumpleaños y baby showers",
+    "Decoración para empresas e inauguraciones",
+    "Bouquets y cajas de regalo",
+    "Paquetes de decoración por temporada"
+   ]
+  },
+  {
+   "slug": "costura-tejido",
+   "name": "Costura y tejido",
+   "emoji": "🧵",
    "title": "Mejores cursos de costura y tejido para emprender",
    "intro": "Coser tu propia ropa o tejer bolsos en trapillo son oficios con productos de alto valor percibido. Estos cursos van desde cero hasta acabados profesionales.",
-   "invest": "Baja a media", "space": "Una mesa de trabajo", "learn": "1 a 3 meses",
-   "start": ["Máquina de coser doméstica (para costura)", "Tijeras de tela, cinta métrica y alfileres", "Papel para patrones y tiza de sastre", "Para tejido: trapillo y ganchillo de 8–10 mm"],
-   "sell": ["Bolsos y canastas de trapillo", "Arreglos y prendas a medida", "Ropa de casa: cojines, manteles, cortinas", "Accesorios personalizados"]},
-  {"slug": "reposteria", "name": "Repostería para vender", "emoji": "🧁",
+   "invest": "Baja a media",
+   "space": "Una mesa de trabajo",
+   "learn": "1 a 3 meses",
+   "start": [
+    "Máquina de coser doméstica (para costura)",
+    "Tijeras de tela, cinta métrica y alfileres",
+    "Papel para patrones y tiza de sastre",
+    "Para tejido: trapillo y ganchillo de 8–10 mm"
+   ],
+   "sell": [
+    "Bolsos y canastas de trapillo",
+    "Arreglos y prendas a medida",
+    "Ropa de casa: cojines, manteles, cortinas",
+    "Accesorios personalizados"
+   ]
+  },
+  {
+   "slug": "reposteria",
+   "name": "Repostería para vender",
+   "emoji": "🧁",
    "title": "Mejores cursos de repostería para vender desde casa",
    "intro": "Los postres en vaso se venden por unidad, se preparan en una cocina normal y se pueden ofrecer a vecinos, oficinas y eventos. Este es el curso mejor valorado para empezar.",
-   "invest": "Baja", "space": "Una cocina", "learn": "1 a 2 semanas",
-   "start": ["Vasos con tapa y cucharitas", "Batidora", "Ingredientes base: crema de leche, galletas, chocolate, fruta", "Mangas pasteleras y boquillas", "Refrigeradora con espacio libre"],
-   "sell": ["Postres en vaso por unidad", "Mesas de postres para eventos", "Pedidos para oficinas", "Packs para fechas especiales"],
-   "note": "Al vender alimentos, cumple las normas sanitarias de tu localidad y cuida la cadena de frío."},
-  {"slug": "decoracion-concreto", "name": "Decoración en concreto", "emoji": "🪴",
+   "invest": "Baja",
+   "space": "Una cocina",
+   "learn": "1 a 2 semanas",
+   "start": [
+    "Vasos con tapa y cucharitas",
+    "Batidora",
+    "Ingredientes base: crema de leche, galletas, chocolate, fruta",
+    "Mangas pasteleras y boquillas",
+    "Refrigeradora con espacio libre"
+   ],
+   "sell": [
+    "Postres en vaso por unidad",
+    "Mesas de postres para eventos",
+    "Pedidos para oficinas",
+    "Packs para fechas especiales"
+   ],
+   "note": "Al vender alimentos, cumple las normas sanitarias de tu localidad y cuida la cadena de frío."
+  },
+  {
+   "slug": "decoracion-concreto",
+   "name": "Decoración en concreto",
+   "emoji": "🪴",
    "title": "Mejores cursos de decoración en concreto",
    "intro": "Macetas, portavelas, bandejas y piezas decorativas en concreto: un nicho con estética moderna y todavía poca competencia. Este es el curso mejor valorado para empezar.",
-   "invest": "Baja a media", "space": "Un espacio con mesa y ventilación (puede ser patio)", "learn": "2 a 4 semanas",
-   "start": ["Cemento blanco o gris y arena fina", "Moldes de silicona y plástico", "Desmoldante", "Pigmentos para concreto", "Lijas, sellador y pintura", "Guantes y mascarilla"],
-   "sell": ["Macetas y portavelas", "Bandejas y joyeros", "Sets decorativos para regalo", "Piezas para tiendas de decoración"]}
+   "invest": "Baja a media",
+   "space": "Un espacio con mesa y ventilación (puede ser patio)",
+   "learn": "2 a 4 semanas",
+   "start": [
+    "Cemento blanco o gris y arena fina",
+    "Moldes de silicona y plástico",
+    "Desmoldante",
+    "Pigmentos para concreto",
+    "Lijas, sellador y pintura",
+    "Guantes y mascarilla"
+   ],
+   "sell": [
+    "Macetas y portavelas",
+    "Bandejas y joyeros",
+    "Sets decorativos para regalo",
+    "Piezas para tiendas de decoración"
+   ]
+  }
  ]
 }
